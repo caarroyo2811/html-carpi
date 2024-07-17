@@ -1,0 +1,39 @@
+
+body {
+    background-color: black;
+}
+
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+.carpi {
+    width: 700px; 
+    margin-left: 250px;
+    margin-top: 100px;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+} 
+
+img {
+    border: 5px solid white;
+    width: 612.5px;
+    height: 328.5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
